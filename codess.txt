@@ -6,7 +6,14 @@ java
 c++
 python
 
+sql
+ruby
+
 
 thank you :)
 
+
+done my changes
+
 final copy
+
