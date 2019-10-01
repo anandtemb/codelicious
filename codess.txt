@@ -6,5 +6,8 @@ java
 c++
 python
 
+sql
+ruby
+
 
 thank you :)
